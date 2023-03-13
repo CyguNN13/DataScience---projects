@@ -3,7 +3,7 @@ These are my completed Data Science project that I have undertaken:
 
 
 INDPRO Forecasting:
-  With 5 unique variables I performed a series of steps (data preparation, modeling, microparameter tuning, visualization, and optimazing) to predict the INDPRO index for 4 months ahead
+  With 5 unique variables I performed a series of steps (data preparation, modeling, microparameter tuning, visualization, and optimizing) to predict the INDPRO index for 4 months ahead
 
 
 
