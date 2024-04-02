@@ -12,7 +12,7 @@ Diabetes Project:
   The main idea behind it was to check which physical factors of different women correlate with high risk of developing diabetes.
 
 Model Ekonometryczny Inflacji w Polsce:
-  It was my reserach project to try to predict inflation rate for the next 2 years using Ordinary Least Squares method. I managed to rule out main obstacles like:
+  It was my reserach project predicting inflation rate for the next 2 years using Ordinary Least Squares method. I managed to rule out main obstacles like:
   - stationarity
   - muliticolinearity
   - hetereskedasticity
