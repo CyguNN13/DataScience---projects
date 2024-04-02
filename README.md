@@ -10,3 +10,12 @@ INDPRO Forecasting:
 Diabetes Project:
   It is a research project that I have done for research purposes and to practice writing python code for modeling data structures.
   The main idea behind it was to check which physical factors of different women correlate with high risk of developing diabetes.
+
+Model Ekonometryczny Inflacji w Polsce:
+  It was my reserach project to try to predict inflation rate for the next 2 years using Ordinary Least Squares method. I managed to rule out main obstacles like:
+  - stationarity
+  - muliticolinearity
+  - hetereskedasticity
+  - autocorrelation
+  - and endogeneity
+  In the end the ex-post error (Mean Average Percentage Error) of the forecast was calucalted to sit around 5%, which is very satisfying.
