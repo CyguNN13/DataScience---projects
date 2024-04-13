@@ -18,4 +18,7 @@ Model Ekonometryczny Inflacji w Polsce:
   - hetereskedasticity
   - autocorrelation
   - and endogeneity
-  In the end the ex-post error (Mean Average Percentage Error) of the forecast was calucalted to sit around 5%, which is very satisfying.
+  In the end the ex-post error (Mean Average Percentage Error) of the forecast was calucalted to sit around 5%
+
+My newest project was the analysis of the churn rate of customers for an audiobook site. To tackle this issue I have put my new TensorFlow skills into use and created a Neural Network that classifies 
+wheter customers will leave the site or continue using it. Final accuracy of the model sits at around ~80%
